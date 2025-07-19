@@ -52,6 +52,7 @@ CS50's Introduction to Programming with Python is Harvard University's introduct
 Each problem set contains individual Python files that can be run directly:
 
 ``` python3 problem_name.py ```
+
 Some problems may require additional input files or command line arguments. Check individual problem directories for specific instructions.
 
 # 🎯 Learning Objectives
@@ -72,7 +73,7 @@ Through these problem sets, I'm developing skills in:
 - Course: CS50's Introduction to Programming with Python
 - Institution: Harvard University
 - Instructor: David J. Malan
-- Platform: edX / CS50.harvard.edu
+- Platform: - [Edx](https://www.edx.org/cs50)
 
 # 🤝 Academic Honesty
 This repository contains my personal solutions developed as part of my learning process. If you're currently taking CS50 Python, please respect the course's academic honesty policy and work through the problems independently before referencing any solutions.
