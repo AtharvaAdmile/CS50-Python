@@ -16,6 +16,7 @@ CS50's Introduction to Programming with Python is Harvard University's introduct
 # 🗂️ Repository Structure:
 
 - [Week 0 Functions, Variables](https://github.com/AtharvaAdmile/CS50-Python/tree/main/Week%200%20Functions%2CVariable/)
+- [Week 1: Conditionals](/)
 - [Week 2: Loops](week2/)
 - [Week 3: Exceptions](week3/)
 - [Week 4: Libraries](week4/)
